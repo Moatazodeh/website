@@ -115,10 +115,10 @@ text-align: left;
 .btn{
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(center top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(center top, #11cdd4, #11999e);
-  background-image: -o-linear-gradient(center top, #11cdd4, #11999e);
-  background-image: linear-gradient(top bottom, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
